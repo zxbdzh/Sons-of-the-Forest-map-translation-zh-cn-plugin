@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5.1
 // @description  MapGenie Sons of The Forest 地图汉化插件，支持原文/汉化模式和中文搜索
-// @author       Your Name
+// @author       zxb
 // @match        https://mapgenie.io/sons-of-the-forest/*
 // @match        file:///*
 // @grant        GM_addStyle
@@ -123,36 +123,36 @@
     "Tactical Axe": "战术斧",
     "Crafted Axe": "自制斧",
     "Climbing Axe": "登山斧",
-    "Katana": "武士刀",
-    "Machete": "弯刀",
-    "Chainsaw": "电锯",
-    "Crossbow": "弩",
-    "Slingshot": "弹弓",
-    "Bow": "弓",
+    Katana: "武士刀",
+    Machete: "弯刀",
+    Chainsaw: "电锯",
+    Crossbow: "弩",
+    Slingshot: "弹弓",
+    Bow: "弓",
     "Modern Bow": "现代弓",
     "Crafted Bow": "自制弓",
-    "Pistol": "手枪",
-    "Shotgun": "霰弹枪",
-    "Revolver": "左轮手枪",
-    "Rifle": "步枪",
-    "Flamethrower": "火焰喷射器",
-    "Shovel": "铲子",
+    Pistol: "手枪",
+    Shotgun: "霰弹枪",
+    Revolver: "左轮手枪",
+    Rifle: "步枪",
+    Flamethrower: "火焰喷射器",
+    Shovel: "铲子",
     "Tactical Shovel": "战术铲",
     "Crafted Shovel": "自制铲",
-    "Pickaxe": "镐",
+    Pickaxe: "镐",
     "Crafted Pickaxe": "自制镐",
-    "Rock": "石头",
-    "Torch": "火把",
-    "Flashlight": "手电筒",
+    Rock: "石头",
+    Torch: "火把",
+    Flashlight: "手电筒",
     "Night Vision Goggles": "夜视仪",
-    "Walkman": "随身听",
-    "Compass": "指南针",
+    Walkman: "随身听",
+    Compass: "指南针",
     "GPS Tracker": "GPS追踪器",
-    "Rebreather": "呼吸器",
+    Rebreather: "呼吸器",
     "Zipline Rope": "滑索绳",
     "Rope Gun": "绳索枪",
     "Stun Gun": "电击枪",
-    "Pelt": "毛皮",
+    Pelt: "毛皮",
     "Dried Meat": "肉干",
     "Raw Meat": "生肉",
     "Cooked Meat": "熟肉",
@@ -161,10 +161,10 @@
     "Dried Fish": "鱼干",
     "Raw Fish": "生鱼",
     "Cooked Fish": "熟鱼",
-    "Berries": "浆果",
-    "Blueberries": "蓝莓",
-    "Twinberries": "双莓",
-    "Snowberries": "雪莓",
+    Berries: "浆果",
+    Blueberries: "蓝莓",
+    Twinberries: "双莓",
+    Snowberries: "雪莓",
     "Aloe Vera": "芦荟",
     "Energy Mix": "能量混合物",
     "Energy Bar": "能量棒",
@@ -172,22 +172,22 @@
     "Chocolate Bar": "巧克力棒",
     "Snack Pack": "零食包",
     "Canned Food": "罐头食品",
-    "Jerky": "肉干",
+    Jerky: "肉干",
     "Water Bottle": "水瓶",
     "Water Skin": "水袋",
     "Soda Can": "汽水罐",
-    "Beer": "啤酒",
-    "Vodka": "伏特加",
-    "Whiskey": "威士忌",
-    "Bandage": "绷带",
-    "Medkit": "急救包",
-    "Pills": "药丸",
-    "Alcohol": "酒精",
-    "Herbs": "草药",
-    "Marigold": "金盏花",
-    "Yarrow": "蓍草",
-    "Aloe": "芦荟",
-    "Coneflower": "锥花",
+    Beer: "啤酒",
+    Vodka: "伏特加",
+    Whiskey: "威士忌",
+    Bandage: "绷带",
+    Medkit: "急救包",
+    Pills: "药丸",
+    Alcohol: "酒精",
+    Herbs: "草药",
+    Marigold: "金盏花",
+    Yarrow: "蓍草",
+    Aloe: "芦荟",
+    Coneflower: "锥花",
     "Health Mix": "健康混合物",
     "Health Plus": "健康增强",
     "Bone Armor": "骨甲",
@@ -200,86 +200,86 @@
     "Boar Skin": "野猪皮",
     "Lizard Skin": "蜥蜴皮",
     "Turtle Shell": "海龟壳",
-    "Bone": "骨头",
-    "Skull": "头骨",
-    "Teeth": "牙齿",
-    "Feather": "羽毛",
-    "Stick": "木棍",
-    "Log": "原木",
-    "Stone": "石头",
-    "Rock": "岩石",
-    "Leaf": "叶子",
+    Bone: "骨头",
+    Skull: "头骨",
+    Teeth: "牙齿",
+    Feather: "羽毛",
+    Stick: "木棍",
+    Log: "原木",
+    Stone: "石头",
+    Rock: "岩石",
+    Leaf: "叶子",
     "Plant Fiber": "植物纤维",
-    "Cloth": "布料",
+    Cloth: "布料",
     "Duct Tape": "强力胶带",
-    "Wire": "电线",
-    "Battery": "电池",
+    Wire: "电线",
+    Battery: "电池",
     "Circuit Board": "电路板",
-    "Coins": "硬币",
-    "Cash": "现金",
-    "Watch": "手表",
+    Coins: "硬币",
+    Cash: "现金",
+    Watch: "手表",
     "Gold Bar": "金条",
-    "Diamond": "钻石",
-    "Ruby": "红宝石",
-    "Emerald": "绿宝石",
-    "Sapphire": "蓝宝石",
-    "Keycard": "门禁卡",
+    Diamond: "钻石",
+    Ruby: "红宝石",
+    Emerald: "绿宝石",
+    Sapphire: "蓝宝石",
+    Keycard: "门禁卡",
     "Maintenance Keycard": "维护门禁卡",
     "Guest Keycard": "客人门禁卡",
     "VIP Keycard": "VIP门禁卡",
     "CEO Keycard": "CEO门禁卡",
-    "Laptop": "笔记本电脑",
+    Laptop: "笔记本电脑",
     "Flash Drive": "U盘",
     "Hard Drive": "硬盘",
     "Memory Card": "内存卡",
-    "Document": "文档",
-    "Book": "书籍",
-    "Magazine": "杂志",
-    "Blueprint": "蓝图",
-    "Recipe": "食谱",
-    "Map": "地图",
-    "Compass": "指南针",
-    "GPS": "GPS",
-    "Radio": "收音机",
+    Document: "文档",
+    Book: "书籍",
+    Magazine: "杂志",
+    Blueprint: "蓝图",
+    Recipe: "食谱",
+    Map: "地图",
+    Compass: "指南针",
+    GPS: "GPS",
+    Radio: "收音机",
     "Walkie Talkie": "对讲机",
-    "Flashlight": "手电筒",
-    "Flare": "信号弹",
-    "Torch": "火把",
-    "Lighter": "打火机",
-    "Matches": "火柴",
-    "Firewood": "柴火",
-    "Campfire": "篝火",
-    "Bonfire": "大火堆",
+    Flashlight: "手电筒",
+    Flare: "信号弹",
+    Torch: "火把",
+    Lighter: "打火机",
+    Matches: "火柴",
+    Firewood: "柴火",
+    Campfire: "篝火",
+    Bonfire: "大火堆",
     "Fire Pit": "火坑",
     "Stone Ring": "石圈",
     "Drying Rack": "晾干架",
-    "Shelter": "庇护所",
-    "Tent": "帐篷",
+    Shelter: "庇护所",
+    Tent: "帐篷",
     "Lean-to": "简易棚",
     "Tree House": "树屋",
-    "Cabin": "小屋",
+    Cabin: "小屋",
     "Lookout Tower": "瞭望塔",
-    "Trap": "陷阱",
+    Trap: "陷阱",
     "Deadfall Trap": "落石陷阱",
     "Snare Trap": "陷阱",
     "Fish Trap": "捕鱼陷阱",
     "Bird Trap": "捕鸟陷阱",
-    "Wall": "墙",
-    "Door": "门",
-    "Gate": "大门",
-    "Window": "窗户",
-    "Floor": "地板",
-    "Roof": "屋顶",
-    "Stairs": "楼梯",
-    "Ladder": "梯子",
-    "Bridge": "桥",
-    "Zipline": "滑索",
-    "Raft": "木筏",
-    "Boat": "船",
-    "Kayak": "皮划艇",
+    Wall: "墙",
+    Door: "门",
+    Gate: "大门",
+    Window: "窗户",
+    Floor: "地板",
+    Roof: "屋顶",
+    Stairs: "楼梯",
+    Ladder: "梯子",
+    Bridge: "桥",
+    Zipline: "滑索",
+    Raft: "木筏",
+    Boat: "船",
+    Kayak: "皮划艇",
     "Golf Cart": "高尔夫球车",
-    "ATV": "全地形车",
-    "Snowmobile": "雪地摩托",
+    ATV: "全地形车",
+    Snowmobile: "雪地摩托",
     "Hang Glider": "滑翔机",
 
     // ========== 工具提示 ==========
@@ -299,284 +299,284 @@
   };
 
   // 导出到全局作用域
-  if (typeof window !== 'undefined') {
+  if (typeof window !== "undefined") {
     window.mapgenieLocals = locals;
   }
 
   // ========== 中文→英文反向翻译字典（用于搜索功能） ==========
   const reverseLocals = {
     // UI 元素
-    "搜索": "Search",
-    "显示全部": "Show All",
-    "隐藏全部": "Hide All",
-    "筛选已激活": "Filter Active",
-    "清除目标": "Clear Target",
-    "嵌入地图": "Embed Map",
-    "升级到专业版": "Upgrade To Pro",
+    搜索: "Search",
+    显示全部: "Show All",
+    隐藏全部: "Hide All",
+    筛选已激活: "Filter Active",
+    清除目标: "Clear Target",
+    嵌入地图: "Embed Map",
+    升级到专业版: "Upgrade To Pro",
 
     // 分类名称
-    "位置": "Locations",
-    "收集品": "Collectibles",
-    "物品": "Items",
-    "原住民": "Natives",
-    "野生动物": "Wildlife",
-    "材料": "Materials",
-    "其他": "Other",
+    位置: "Locations",
+    收集品: "Collectibles",
+    物品: "Items",
+    原住民: "Natives",
+    野生动物: "Wildlife",
+    材料: "Materials",
+    其他: "Other",
 
     // Locations 子分类
     "3D打印机": "3D Printer",
-    "废弃营地": "Abandoned Camp",
-    "地堡": "Bunker",
-    "食人族营地": "Cannibal Camp",
-    "洞穴入口": "Cave Entrance",
-    "出口": "Exit",
-    "GPS定位器": "GPS Locator",
-    "兴趣点": "Point of Interest",
-    "出生点": "Spawn Point",
-    "村庄": "Village",
+    废弃营地: "Abandoned Camp",
+    地堡: "Bunker",
+    食人族营地: "Cannibal Camp",
+    洞穴入口: "Cave Entrance",
+    出口: "Exit",
+    GPS定位器: "GPS Locator",
+    兴趣点: "Point of Interest",
+    出生点: "Spawn Point",
+    村庄: "Village",
 
     // Collectibles 子分类
-    "神器碎片": "Artifact Piece",
-    "蓝图": "Blueprint",
-    "书籍": "Book",
-    "衣服": "Clothes",
-    "文档": "Document",
-    "门禁卡": "Keycard",
-    "笔记本电脑": "Laptop",
-    "杂志": "Magazine",
-    "视频录像": "Video Recording",
+    神器碎片: "Artifact Piece",
+    蓝图: "Blueprint",
+    书籍: "Book",
+    衣服: "Clothes",
+    文档: "Document",
+    门禁卡: "Keycard",
+    笔记本电脑: "Laptop",
+    杂志: "Magazine",
+    视频录像: "Video Recording",
 
     // Items 子分类
-    "氧气瓶": "Air Tank",
-    "弹药箱": "Ammo Case",
-    "烹饪锅": "Cooking Pot",
-    "板条箱": "Crate",
-    "弩箭": "Crossbow Bolts",
-    "装备": "Equipment",
-    "爆炸物": "Explosives",
-    "信号弹": "Flare",
-    "齿轮": "Gear",
-    "高尔夫球车电池": "Golf Cart Battery",
-    "灯泡": "Light Bulb",
-    "药品": "Meds",
-    "零食": "Snack",
-    "汽水": "Soda",
-    "行李箱": "Suitcase",
-    "补给箱": "Supply Case",
-    "防水布": "Tarp",
-    "实用物品": "Utility Item",
-    "武器": "Weapon",
+    氧气瓶: "Air Tank",
+    弹药箱: "Ammo Case",
+    烹饪锅: "Cooking Pot",
+    板条箱: "Crate",
+    弩箭: "Crossbow Bolts",
+    装备: "Equipment",
+    爆炸物: "Explosives",
+    信号弹: "Flare",
+    齿轮: "Gear",
+    高尔夫球车电池: "Golf Cart Battery",
+    灯泡: "Light Bulb",
+    药品: "Meds",
+    零食: "Snack",
+    汽水: "Soda",
+    行李箱: "Suitcase",
+    补给箱: "Supply Case",
+    防水布: "Tarp",
+    实用物品: "Utility Item",
+    武器: "Weapon",
 
     // Natives 子分类
-    "变异体": "Mutant",
+    变异体: "Mutant",
 
     // Wildlife 子分类
-    "鹿": "Deer",
-    "鱼": "Fish",
-    "驼鹿": "Moose",
-    "牡蛎": "Oyster",
-    "海鸥": "Seagull",
-    "鲨鱼": "Shark",
-    "海龟": "Turtle",
+    鹿: "Deer",
+    鱼: "Fish",
+    驼鹿: "Moose",
+    牡蛎: "Oyster",
+    海鸥: "Seagull",
+    鲨鱼: "Shark",
+    海龟: "Turtle",
 
     // Materials 子分类
-    "现金": "Cash",
-    "电路板": "Circuit Board",
-    "布料": "Cloth",
-    "硬币": "Coins",
-    "强力胶带": "Duct Tape",
-    "蘑菇": "Mushrooms",
-    "植物": "Plant",
-    "绳索": "Rope",
-    "索拉菲特矿石": "Solafite Ore",
-    "伏特加酒瓶": "Vodka Bottle",
-    "手表": "Watch",
-    "电线": "Wire",
+    现金: "Cash",
+    电路板: "Circuit Board",
+    布料: "Cloth",
+    硬币: "Coins",
+    强力胶带: "Duct Tape",
+    蘑菇: "Mushrooms",
+    植物: "Plant",
+    绳索: "Rope",
+    索拉菲特矿石: "Solafite Ore",
+    伏特加酒瓶: "Vodka Bottle",
+    手表: "Watch",
+    电线: "Wire",
 
     // Other 子分类
-    "门": "Door",
-    "彩蛋": "Easter Egg",
-    "高尔夫球": "Golf Ball",
-    "坟墓": "Grave",
-    "杂项": "Miscellaneous",
-    "池塘": "Pond",
-    "收音机": "Radio",
-    "头骨": "Skull",
-    "载具": "Vehicle",
+    门: "Door",
+    彩蛋: "Easter Egg",
+    高尔夫球: "Golf Ball",
+    坟墓: "Grave",
+    杂项: "Miscellaneous",
+    池塘: "Pond",
+    收音机: "Radio",
+    头骨: "Skull",
+    载具: "Vehicle",
 
     // 游戏物品详细列表
-    "开罐器": "Can Opener",
-    "消防斧": "Firefighter Axe",
-    "现代斧": "Modern Axe",
-    "战术斧": "Tactical Axe",
-    "自制斧": "Crafted Axe",
-    "登山斧": "Climbing Axe",
-    "武士刀": "Katana",
-    "弯刀": "Machete",
-    "电锯": "Chainsaw",
-    "弩": "Crossbow",
-    "弹弓": "Slingshot",
-    "弓": "Bow",
-    "现代弓": "Modern Bow",
-    "自制弓": "Crafted Bow",
-    "手枪": "Pistol",
-    "霰弹枪": "Shotgun",
-    "左轮手枪": "Revolver",
-    "步枪": "Rifle",
-    "火焰喷射器": "Flamethrower",
-    "铲子": "Shovel",
-    "战术铲": "Tactical Shovel",
-    "自制铲": "Crafted Shovel",
-    "镐": "Pickaxe",
-    "自制镐": "Crafted Pickaxe",
-    "石头": "Rock",
-    "火把": "Torch",
-    "手电筒": "Flashlight",
-    "夜视仪": "Night Vision Goggles",
-    "随身听": "Walkman",
-    "指南针": "Compass",
-    "GPS追踪器": "GPS Tracker",
-    "呼吸器": "Rebreather",
-    "滑索绳": "Zipline Rope",
-    "绳索枪": "Rope Gun",
-    "电击枪": "Stun Gun",
-    "毛皮": "Pelt",
-    "肉干": "Dried Meat",
-    "生肉": "Raw Meat",
-    "熟肉": "Cooked Meat",
-    "小块肉": "Small Meat",
-    "大块肉": "Large Meat",
-    "鱼干": "Dried Fish",
-    "生鱼": "Raw Fish",
-    "熟鱼": "Cooked Fish",
-    "浆果": "Berries",
-    "蓝莓": "Blueberries",
-    "双莓": "Twinberries",
-    "雪莓": "Snowberries",
-    "芦荟": "Aloe Vera",
-    "能量混合物": "Energy Mix",
-    "能量棒": "Energy Bar",
-    "能量饮料": "Energy Drink",
-    "巧克力棒": "Chocolate Bar",
-    "零食包": "Snack Pack",
-    "罐头食品": "Canned Food",
-    "肉干": "Jerky",
-    "水瓶": "Water Bottle",
-    "水袋": "Water Skin",
-    "汽水罐": "Soda Can",
-    "啤酒": "Beer",
-    "伏特加": "Vodka",
-    "威士忌": "Whiskey",
-    "绷带": "Bandage",
-    "急救包": "Medkit",
-    "药丸": "Pills",
-    "酒精": "Alcohol",
-    "草药": "Herbs",
-    "金盏花": "Marigold",
-    "蓍草": "Yarrow",
-    "芦荟": "Aloe",
-    "锥花": "Coneflower",
-    "健康混合物": "Health Mix",
-    "健康增强": "Health Plus",
-    "骨甲": "Bone Armor",
-    "潜行甲": "Stealth Armor",
-    "科技甲": "Technological Armor",
-    "保暖服": "Warm Suit",
-    "爬行者甲": "Creeper Armor",
-    "鹿皮": "Deer Skin",
-    "兔皮": "Rabbit Fur",
-    "野猪皮": "Boar Skin",
-    "蜥蜴皮": "Lizard Skin",
-    "海龟壳": "Turtle Shell",
-    "骨头": "Bone",
-    "头骨": "Skull",
-    "牙齿": "Teeth",
-    "羽毛": "Feather",
-    "木棍": "Stick",
-    "原木": "Log",
-    "石头": "Stone",
-    "岩石": "Rock",
-    "叶子": "Leaf",
-    "植物纤维": "Plant Fiber",
-    "布料": "Cloth",
-    "强力胶带": "Duct Tape",
-    "电线": "Wire",
-    "电池": "Battery",
-    "电路板": "Circuit Board",
-    "硬币": "Coins",
-    "现金": "Cash",
-    "手表": "Watch",
-    "金条": "Gold Bar",
-    "钻石": "Diamond",
-    "红宝石": "Ruby",
-    "绿宝石": "Emerald",
-    "蓝宝石": "Sapphire",
-    "门禁卡": "Keycard",
-    "维护门禁卡": "Maintenance Keycard",
-    "客人门禁卡": "Guest Keycard",
-    "VIP门禁卡": "VIP Keycard",
-    "CEO门禁卡": "CEO Keycard",
-    "笔记本电脑": "Laptop",
-    "U盘": "Flash Drive",
-    "硬盘": "Hard Drive",
-    "内存卡": "Memory Card",
-    "文档": "Document",
-    "书籍": "Book",
-    "杂志": "Magazine",
-    "蓝图": "Blueprint",
-    "食谱": "Recipe",
-    "地图": "Map",
-    "指南针": "Compass",
-    "GPS": "GPS",
-    "收音机": "Radio",
-    "对讲机": "Walkie Talkie",
-    "手电筒": "Flashlight",
-    "信号弹": "Flare",
-    "火把": "Torch",
-    "打火机": "Lighter",
-    "火柴": "Matches",
-    "柴火": "Firewood",
-    "篝火": "Campfire",
-    "大火堆": "Bonfire",
-    "火坑": "Fire Pit",
-    "石圈": "Stone Ring",
-    "晾干架": "Drying Rack",
-    "庇护所": "Shelter",
-    "帐篷": "Tent",
-    "简易棚": "Lean-to",
-    "树屋": "Tree House",
-    "小屋": "Cabin",
-    "瞭望塔": "Lookout Tower",
-    "陷阱": "Trap",
-    "落石陷阱": "Deadfall Trap",
-    "捕鸟陷阱": "Snare Trap",
-    "捕鱼陷阱": "Fish Trap",
-    "捕鸟陷阱": "Bird Trap",
-    "墙": "Wall",
-    "门": "Door",
-    "大门": "Gate",
-    "窗户": "Window",
-    "地板": "Floor",
-    "屋顶": "Roof",
-    "楼梯": "Stairs",
-    "梯子": "Ladder",
-    "桥": "Bridge",
-    "滑索": "Zipline",
-    "木筏": "Raft",
-    "船": "Boat",
-    "皮划艇": "Kayak",
-    "高尔夫球车": "Golf Cart",
-    "全地形车": "ATV",
-    "雪地摩托": "Snowmobile",
-    "滑翔机": "Hang Glider",
+    开罐器: "Can Opener",
+    消防斧: "Firefighter Axe",
+    现代斧: "Modern Axe",
+    战术斧: "Tactical Axe",
+    自制斧: "Crafted Axe",
+    登山斧: "Climbing Axe",
+    武士刀: "Katana",
+    弯刀: "Machete",
+    电锯: "Chainsaw",
+    弩: "Crossbow",
+    弹弓: "Slingshot",
+    弓: "Bow",
+    现代弓: "Modern Bow",
+    自制弓: "Crafted Bow",
+    手枪: "Pistol",
+    霰弹枪: "Shotgun",
+    左轮手枪: "Revolver",
+    步枪: "Rifle",
+    火焰喷射器: "Flamethrower",
+    铲子: "Shovel",
+    战术铲: "Tactical Shovel",
+    自制铲: "Crafted Shovel",
+    镐: "Pickaxe",
+    自制镐: "Crafted Pickaxe",
+    石头: "Rock",
+    火把: "Torch",
+    手电筒: "Flashlight",
+    夜视仪: "Night Vision Goggles",
+    随身听: "Walkman",
+    指南针: "Compass",
+    GPS追踪器: "GPS Tracker",
+    呼吸器: "Rebreather",
+    滑索绳: "Zipline Rope",
+    绳索枪: "Rope Gun",
+    电击枪: "Stun Gun",
+    毛皮: "Pelt",
+    肉干: "Dried Meat",
+    生肉: "Raw Meat",
+    熟肉: "Cooked Meat",
+    小块肉: "Small Meat",
+    大块肉: "Large Meat",
+    鱼干: "Dried Fish",
+    生鱼: "Raw Fish",
+    熟鱼: "Cooked Fish",
+    浆果: "Berries",
+    蓝莓: "Blueberries",
+    双莓: "Twinberries",
+    雪莓: "Snowberries",
+    芦荟: "Aloe Vera",
+    能量混合物: "Energy Mix",
+    能量棒: "Energy Bar",
+    能量饮料: "Energy Drink",
+    巧克力棒: "Chocolate Bar",
+    零食包: "Snack Pack",
+    罐头食品: "Canned Food",
+    肉干: "Jerky",
+    水瓶: "Water Bottle",
+    水袋: "Water Skin",
+    汽水罐: "Soda Can",
+    啤酒: "Beer",
+    伏特加: "Vodka",
+    威士忌: "Whiskey",
+    绷带: "Bandage",
+    急救包: "Medkit",
+    药丸: "Pills",
+    酒精: "Alcohol",
+    草药: "Herbs",
+    金盏花: "Marigold",
+    蓍草: "Yarrow",
+    芦荟: "Aloe",
+    锥花: "Coneflower",
+    健康混合物: "Health Mix",
+    健康增强: "Health Plus",
+    骨甲: "Bone Armor",
+    潜行甲: "Stealth Armor",
+    科技甲: "Technological Armor",
+    保暖服: "Warm Suit",
+    爬行者甲: "Creeper Armor",
+    鹿皮: "Deer Skin",
+    兔皮: "Rabbit Fur",
+    野猪皮: "Boar Skin",
+    蜥蜴皮: "Lizard Skin",
+    海龟壳: "Turtle Shell",
+    骨头: "Bone",
+    头骨: "Skull",
+    牙齿: "Teeth",
+    羽毛: "Feather",
+    木棍: "Stick",
+    原木: "Log",
+    石头: "Stone",
+    岩石: "Rock",
+    叶子: "Leaf",
+    植物纤维: "Plant Fiber",
+    布料: "Cloth",
+    强力胶带: "Duct Tape",
+    电线: "Wire",
+    电池: "Battery",
+    电路板: "Circuit Board",
+    硬币: "Coins",
+    现金: "Cash",
+    手表: "Watch",
+    金条: "Gold Bar",
+    钻石: "Diamond",
+    红宝石: "Ruby",
+    绿宝石: "Emerald",
+    蓝宝石: "Sapphire",
+    门禁卡: "Keycard",
+    维护门禁卡: "Maintenance Keycard",
+    客人门禁卡: "Guest Keycard",
+    VIP门禁卡: "VIP Keycard",
+    CEO门禁卡: "CEO Keycard",
+    笔记本电脑: "Laptop",
+    U盘: "Flash Drive",
+    硬盘: "Hard Drive",
+    内存卡: "Memory Card",
+    文档: "Document",
+    书籍: "Book",
+    杂志: "Magazine",
+    蓝图: "Blueprint",
+    食谱: "Recipe",
+    地图: "Map",
+    指南针: "Compass",
+    GPS: "GPS",
+    收音机: "Radio",
+    对讲机: "Walkie Talkie",
+    手电筒: "Flashlight",
+    信号弹: "Flare",
+    火把: "Torch",
+    打火机: "Lighter",
+    火柴: "Matches",
+    柴火: "Firewood",
+    篝火: "Campfire",
+    大火堆: "Bonfire",
+    火坑: "Fire Pit",
+    石圈: "Stone Ring",
+    晾干架: "Drying Rack",
+    庇护所: "Shelter",
+    帐篷: "Tent",
+    简易棚: "Lean-to",
+    树屋: "Tree House",
+    小屋: "Cabin",
+    瞭望塔: "Lookout Tower",
+    陷阱: "Trap",
+    落石陷阱: "Deadfall Trap",
+    捕鸟陷阱: "Snare Trap",
+    捕鱼陷阱: "Fish Trap",
+    捕鸟陷阱: "Bird Trap",
+    墙: "Wall",
+    门: "Door",
+    大门: "Gate",
+    窗户: "Window",
+    地板: "Floor",
+    屋顶: "Roof",
+    楼梯: "Stairs",
+    梯子: "Ladder",
+    桥: "Bridge",
+    滑索: "Zipline",
+    木筏: "Raft",
+    船: "Boat",
+    皮划艇: "Kayak",
+    高尔夫球车: "Golf Cart",
+    全地形车: "ATV",
+    雪地摩托: "Snowmobile",
+    滑翔机: "Hang Glider",
 
     // 工具提示
-    "距离测量工具": "Distance Measurement Tool",
-    "狙击范围工具": "Sniping Radius Tool",
+    距离测量工具: "Distance Measurement Tool",
+    狙击范围工具: "Sniping Radius Tool",
   };
 
   // 导出到全局作用域
-  if (typeof window !== 'undefined') {
+  if (typeof window !== "undefined") {
     window.mapgenieReverseLocals = reverseLocals;
   }
 
@@ -584,25 +584,48 @@
   const config = {
     mode: "translated", // 'original', 'translated'
     enableRegex: true,
-    enableOnlineTranslation: true,      // 启用在线翻译
-    showUntranslatedMarker: true,       // 显示未翻译标记
-    enableChineseSearch: true,          // 启用中文搜索
+    enableOnlineTranslation: true, // 启用在线翻译
+    enableChineseSearch: true, // 启用中文搜索
     onlineTranslationService: "mymemory", // 翻译服务选择
-    autoCacheCleanup: true,             // 自动清理缓存
+    autoCacheCleanup: true, // 自动清理缓存
   };
 
   // ========== 在线翻译全局变量 ==========
-  const translationQueue = new Map();  // 翻译队列
+  const translationQueue = new Map(); // 翻译队列
   const failedTranslations = new Map(); // 失败翻译记录
-  let translationTimer = null;         // 节流定时器
+  let translationTimer = null; // 节流定时器
+
+  // ========== 翻译活动引用计数 ==========
+  let translationActivityCount = 0; // 翻译活动计数器
+  let loadingOverlayVisible = false; // 加载界面是否可见
 
   // ========== 搜索功能全局变量 ==========
   let searchInputObserver = null;
   let searchInputElement = null;
   let originalSearchHandler = null;
 
+  // ========== 翻译活动管理函数 ==========
+  function startTranslationActivity() {
+    translationActivityCount++;
+    if (!loadingOverlayVisible && translationActivityCount > 0) {
+      showLoadingOverlay();
+      loadingOverlayVisible = true;
+    }
+  }
+
+  function endTranslationActivity() {
+    translationActivityCount--;
+    if (translationActivityCount < 0) {
+      translationActivityCount = 0;
+    }
+    if (loadingOverlayVisible && translationActivityCount === 0) {
+      hideLoadingOverlay();
+      loadingOverlayVisible = false;
+    }
+  }
+
   // ========== 性能优化全局变量 ==========
-  const textNodeCache = new WeakMap();  // 缓存TreeWalker结果
+  const textNodeCache = new WeakMap(); // 缓存TreeWalker结果
 
   // 加载配置
   function loadConfig() {
@@ -669,15 +692,15 @@
 
   // 检测是否是纯英文文本
   function isEnglishText(text) {
-    if (!text || typeof text !== 'string') return false;
+    if (!text || typeof text !== "string") return false;
     // 检查是否只包含英文字符、数字、空格和常用标点
     return /^[a-zA-Z0-9\s.,!?;:'"()\-_@#$%&*+=<>[\]{}|\\/]+$/.test(text);
   }
 
   // 从双语文本中提取英文部分
   function extractEnglishFromBilingual(text) {
-    if (!text || typeof text !== 'string') return text;
-    
+    if (!text || typeof text !== "string") return text;
+
     // 检查是否是双语文本格式："中文 (英文)"
     const bilingualMatch = text.match(/^[\s\S]*?\s*\(([^)]+)\)\s*$/);
     if (bilingualMatch) {
@@ -687,13 +710,13 @@
         return englishPart;
       }
     }
-    
+
     return text;
   }
 
   // 将中文搜索词翻译成英文
   function translateSearchQuery(query) {
-    if (!query || typeof query !== 'string') return query;
+    if (!query || typeof query !== "string") return query;
 
     // 如果不包含中文，直接返回
     if (!containsChinese(query)) {
@@ -707,15 +730,15 @@
 
     // 尝试部分匹配（处理多个词的情况）
     const words = query.split(/\s+/);
-    const translatedWords = words.map(word => {
+    const translatedWords = words.map((word) => {
       if (window.mapgenieReverseLocals && window.mapgenieReverseLocals[word]) {
         return window.mapgenieReverseLocals[word];
       }
       return word;
     });
 
-    const result = translatedWords.join(' ');
-    
+    const result = translatedWords.join(" ");
+
     // 如果有中文字符没有被翻译，尝试在线翻译
     if (containsChinese(result) && config.enableOnlineTranslation) {
       // 检查缓存
@@ -774,22 +797,22 @@
     // 等待搜索输入框出现
     const checkSearchInput = setInterval(() => {
       console.log("正在查找搜索输入框...");
-      
+
       // 改进的搜索输入框查找方法
       const possibleSelectors = [
-        '#search-input',
+        "#search-input",
         'input[type="search"]',
         'input[placeholder*="search"]',
         'input[placeholder*="Search"]',
         'input[placeholder*="搜索"]',
-        '.search-input',
-        '#search',
+        ".search-input",
+        "#search",
         '[data-testid*="search"]',
         '[class*="search"] input',
         '[id*="search"] input',
         'input[name*="search"]',
         'input[aria-label*="search"]',
-        'input[aria-label*="Search"]'
+        'input[aria-label*="Search"]',
       ];
 
       searchInputElement = null;
@@ -797,7 +820,11 @@
         const element = document.querySelector(selector);
         if (element) {
           searchInputElement = element;
-          console.log("通过选择器找到搜索输入框:", selector, searchInputElement);
+          console.log(
+            "通过选择器找到搜索输入框:",
+            selector,
+            searchInputElement,
+          );
           break;
         }
       }
@@ -805,16 +832,16 @@
       // 如果选择器没找到，尝试遍历所有 input 元素
       if (!searchInputElement) {
         console.log("通过选择器未找到搜索框，尝试遍历所有 input 元素...");
-        const allInputs = document.querySelectorAll('input');
+        const allInputs = document.querySelectorAll("input");
         console.log("找到", allInputs.length, "个 input 元素");
-        
+
         for (const input of allInputs) {
-          const type = input.type || '';
-          const placeholder = input.placeholder || '';
-          const className = input.className || '';
-          const id = input.id || '';
-          const name = input.name || '';
-          const ariaLabel = input.getAttribute('aria-label') || '';
+          const type = input.type || "";
+          const placeholder = input.placeholder || "";
+          const className = input.className || "";
+          const id = input.id || "";
+          const name = input.name || "";
+          const ariaLabel = input.getAttribute("aria-label") || "";
 
           console.log("检查 input:", {
             type,
@@ -822,15 +849,17 @@
             className,
             id,
             name,
-            ariaLabel
+            ariaLabel,
           });
 
-          if (type === 'search' ||
-              placeholder.toLowerCase().includes('search') ||
-              className.toLowerCase().includes('search') ||
-              id.toLowerCase().includes('search') ||
-              name.toLowerCase().includes('search') ||
-              ariaLabel.toLowerCase().includes('search')) {
+          if (
+            type === "search" ||
+            placeholder.toLowerCase().includes("search") ||
+            className.toLowerCase().includes("search") ||
+            id.toLowerCase().includes("search") ||
+            name.toLowerCase().includes("search") ||
+            ariaLabel.toLowerCase().includes("search")
+          ) {
             searchInputElement = input;
             console.log("通过遍历找到搜索输入框:", searchInputElement);
             break;
@@ -841,10 +870,10 @@
       // 如果还是没找到，尝试查找任何可见的 input 元素
       if (!searchInputElement) {
         console.log("尝试查找任何可见的 input 元素...");
-        const allInputs = document.querySelectorAll('input');
+        const allInputs = document.querySelectorAll("input");
         for (const input of allInputs) {
           const style = window.getComputedStyle(input);
-          if (style.display !== 'none' && style.visibility !== 'hidden') {
+          if (style.display !== "none" && style.visibility !== "hidden") {
             searchInputElement = input;
             console.log("找到可见的 input 元素作为搜索框:", searchInputElement);
             break;
@@ -861,7 +890,7 @@
         const keyupHandler = searchInputElement.onkeyup;
 
         // 拦截输入事件
-        searchInputElement.addEventListener('input', (e) => {
+        searchInputElement.addEventListener("input", (e) => {
           // 检查标志位，避免无限循环
           if (e._skipTranslation) {
             if (inputHandler) {
@@ -883,8 +912,8 @@
               e.target.value = translatedQuery;
 
               // 触发输入事件，让网站感知到变化
-              const inputEvent = new Event('input', { bubbles: true });
-              inputEvent._skipTranslation = true;  // 设置标志位
+              const inputEvent = new Event("input", { bubbles: true });
+              inputEvent._skipTranslation = true; // 设置标志位
               e.target.dispatchEvent(inputEvent);
             }
           }
@@ -896,8 +925,8 @@
         });
 
         // 拦截键盘事件（处理Enter键搜索）
-        searchInputElement.addEventListener('keyup', (e) => {
-          if (e.key === 'Enter') {
+        searchInputElement.addEventListener("keyup", (e) => {
+          if (e.key === "Enter") {
             const inputValue = e.target.value;
             console.log("检测到Enter键搜索:", inputValue);
 
@@ -908,9 +937,9 @@
 
               if (translatedQuery !== inputValue) {
                 e.target.value = translatedQuery;
-                
+
                 // 触发输入事件，让网站感知到变化
-                const inputEvent = new Event('input', { bubbles: true });
+                const inputEvent = new Event("input", { bubbles: true });
                 inputEvent._skipTranslation = true;
                 e.target.dispatchEvent(inputEvent);
               }
@@ -924,7 +953,7 @@
         });
 
         // 拦截 compositionend 事件（处理中文输入法）
-        searchInputElement.addEventListener('compositionend', (e) => {
+        searchInputElement.addEventListener("compositionend", (e) => {
           const inputValue = e.target.value;
           console.log("检测到中文输入法结束:", inputValue);
 
@@ -938,27 +967,36 @@
               e.target.value = translatedQuery;
 
               // 触发输入事件
-              const inputEvent = new Event('input', { bubbles: true });
+              const inputEvent = new Event("input", { bubbles: true });
               inputEvent._skipTranslation = true;
               e.target.dispatchEvent(inputEvent);
             } else {
               // 如果翻译结果和原文相同，说明需要在线翻译
               console.log("需要在线翻译，等待翻译完成...");
-              
+
               // 等待翻译完成（最多等待3秒）
               let checkCount = 0;
               const checkInterval = setInterval(() => {
                 checkCount++;
                 const cached = getFromCache(inputValue);
-                if (cached && cached.translation && cached.translation !== inputValue) {
-                  console.log("在线翻译完成:", inputValue, "->", cached.translation);
-                  
+                if (
+                  cached &&
+                  cached.translation &&
+                  cached.translation !== inputValue
+                ) {
+                  console.log(
+                    "在线翻译完成:",
+                    inputValue,
+                    "->",
+                    cached.translation,
+                  );
+
                   e.target.value = cached.translation;
-                  
-                  const inputEvent = new Event('input', { bubbles: true });
+
+                  const inputEvent = new Event("input", { bubbles: true });
                   inputEvent._skipTranslation = true;
                   e.target.dispatchEvent(inputEvent);
-                  
+
                   clearInterval(checkInterval);
                 } else if (checkCount >= 6) {
                   // 3秒后停止检查
@@ -969,11 +1007,13 @@
             }
           }
         });
-        
+
         // 监听翻译队列，当翻译完成时更新搜索框
         const checkTranslationQueue = setInterval(() => {
           // 检查缓存中是否有新翻译的搜索词
-          const searchValue = searchInputElement ? searchInputElement.value : '';
+          const searchValue = searchInputElement
+            ? searchInputElement.value
+            : "";
           if (searchValue && containsChinese(searchValue)) {
             const cached = getFromCache(searchValue);
             if (cached && cached !== searchValue) {
@@ -981,7 +1021,7 @@
 
               // 更新搜索框的值为英文
               searchInputElement.value = cached;
-              const inputEvent = new Event('input', { bubbles: true });
+              const inputEvent = new Event("input", { bubbles: true });
               inputEvent._skipTranslation = true;
               searchInputElement.dispatchEvent(inputEvent);
             }
@@ -1067,8 +1107,8 @@
   // ========== 在线翻译功能 ==========
 
   // MyMemory API 翻译
-  async function translateWithMyMemory(text, targetLang = 'zh-CN') {
-    const langpair = targetLang === 'en' ? 'zh-CN|en' : 'en|zh-CN';
+  async function translateWithMyMemory(text, targetLang = "zh-CN") {
+    const langpair = targetLang === "en" ? "zh-CN|en" : "en|zh-CN";
     const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${langpair}`;
 
     const response = await fetch(url);
@@ -1092,7 +1132,7 @@
 
     // 只翻译长度小于100的文本
     if (text.length > 100) {
-      console.log('文本过长，跳过在线翻译:', text.substring(0, 50) + '...');
+      console.log("文本过长，跳过在线翻译:", text.substring(0, 50) + "...");
       return;
     }
 
@@ -1107,7 +1147,7 @@
 
     // 限制队列大小
     if (translationQueue.size >= 20) {
-      console.log('翻译队列已满，跳过:', text.substring(0, 30) + '...');
+      console.log("翻译队列已满，跳过:", text.substring(0, 30) + "...");
       return;
     }
 
@@ -1165,14 +1205,16 @@
   async function fetchOnlineTranslation(text, retryCount = 0) {
     try {
       // 根据文本语言自动选择翻译方向
-      const targetLang = containsChinese(text) ? 'en' : 'zh-CN';
-      console.log(`在线翻译: ${text} (${targetLang === 'en' ? '中文→英文' : '英文→中文'})`);
+      const targetLang = containsChinese(text) ? "en" : "zh-CN";
+      console.log(
+        `在线翻译: ${text} (${targetLang === "en" ? "中文→英文" : "英文→中文"})`,
+      );
       return await translateWithMyMemory(text, targetLang);
     } catch (error) {
       console.warn(`翻译失败 (尝试 ${retryCount + 1}/3):`, text, error);
 
       if (retryCount < 2) {
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        await new Promise((resolve) => setTimeout(resolve, 1000));
         return fetchOnlineTranslation(text, retryCount + 1);
       }
 
@@ -1188,7 +1230,7 @@
     let hash = 0;
     for (let i = 0; i < text.length; i++) {
       const char = text.charCodeAt(i);
-      hash = ((hash << 5) - hash) + char;
+      hash = (hash << 5) - hash + char;
       hash = hash & hash; // 转换为32位整数
     }
     return `trans_${Math.abs(hash)}`;
@@ -1202,7 +1244,8 @@
     if (cache[key]) {
       // 检查是否过期（30天）
       const age = Date.now() - cache[key].timestamp;
-      if (age < 2592000000) { // 30天 = 2592000000ms
+      if (age < 2592000000) {
+        // 30天 = 2592000000ms
         return cache[key].translation;
       } else {
         // 过期，删除
@@ -1241,7 +1284,7 @@
     cache[key] = {
       original: text,
       translation: translation,
-      timestamp: Date.now()
+      timestamp: Date.now(),
     };
 
     GM_setValue("translation_cache", cache);
@@ -1255,7 +1298,8 @@
 
     for (const key in cache) {
       const age = now - cache[key].timestamp;
-      if (age > 2592000000) { // 30天
+      if (age > 2592000000) {
+        // 30天
         delete cache[key];
         cleaned++;
       }
@@ -1280,11 +1324,11 @@
     const cache = GM_getValue("translation_cache", {});
     return {
       total: Object.keys(cache).length,
-      entries: Object.values(cache).map(entry => ({
+      entries: Object.values(cache).map((entry) => ({
         original: entry.original,
         translation: entry.translation,
-        age: Date.now() - entry.timestamp
-      }))
+        age: Date.now() - entry.timestamp,
+      })),
     };
   }
 
@@ -1303,7 +1347,11 @@
     if (!element) return;
 
     // 移除所有翻译相关的类
-    element.classList.remove("untranslated-text", "translating-text", "translation-failed");
+    element.classList.remove(
+      "untranslated-text",
+      "translating-text",
+      "translation-failed",
+    );
 
     // 移除title属性
     element.removeAttribute("title");
@@ -1316,12 +1364,14 @@
   // 更新 DOM 中的翻译
   function updateDOMWithTranslation(originalText, translatedText) {
     // 查找所有带有原始文本属性的元素
-    const elements = document.querySelectorAll(`[${ORIGINAL_TEXT_ATTR}="${originalText}"]`);
+    const elements = document.querySelectorAll(
+      `[${ORIGINAL_TEXT_ATTR}="${originalText}"]`,
+    );
 
-    elements.forEach(element => {
+    elements.forEach((element) => {
       // 更新文本内容
       const textNodes = getTextNodes(element);
-      textNodes.forEach(node => {
+      textNodes.forEach((node) => {
         const translated = applyMode(originalText, translatedText);
         if (node.textContent !== translated) {
           node.textContent = translated;
@@ -1363,7 +1413,7 @@
     // 缓存结果
     textNodeCache.set(element, {
       nodes: textNodes,
-      timestamp: Date.now()
+      timestamp: Date.now(),
     });
 
     return textNodes;
@@ -1376,8 +1426,13 @@
     // 限制递归深度，避免无限递归
     const MAX_DEPTH = 20;
     if (depth > MAX_DEPTH) {
-      console.warn('翻译深度超过限制:', element);
+      console.warn("翻译深度超过限制:", element);
       return;
+    }
+
+    // 只在顶层翻译时显示加载界面（depth === 0）
+    if (depth === 0 && !forceRestore) {
+      startTranslationActivity();
     }
 
     // 翻译文本节点
@@ -1394,23 +1449,26 @@
       } else if (parentElement) {
         // 第一次翻译，需要确定原始文本
         let textToSave = originalText;
-        
+
         // 如果当前文本是双语文本，提取英文部分
-        if (containsChinese(originalText) && originalText.includes('(')) {
+        if (containsChinese(originalText) && originalText.includes("(")) {
           textToSave = extractEnglishFromBilingual(originalText);
         }
-        
+
         // 如果当前文本是纯中文，尝试从字典中找到对应的英文
-        if (containsChinese(originalText) && !originalText.includes('(')) {
+        if (containsChinese(originalText) && !originalText.includes("(")) {
           if (locals[originalText]) {
             // 找到中文对应的英文，保存英文作为原始文本
             textToSave = originalText; // 保存中文，因为 locals 是英文→中文的映射
-          } else if (window.mapgenieReverseLocals && window.mapgenieReverseLocals[originalText]) {
+          } else if (
+            window.mapgenieReverseLocals &&
+            window.mapgenieReverseLocals[originalText]
+          ) {
             // 找到中文对应的英文
             textToSave = window.mapgenieReverseLocals[originalText];
           }
         }
-        
+
         // 保存原始文本
         parentElement.setAttribute(ORIGINAL_TEXT_ATTR, textToSave);
         originalText = textToSave;
@@ -1432,11 +1490,11 @@
         // 只有在本地词库和缓存中都没有翻译，且不启用在线翻译时才标记
         const hasLocalTranslation = locals[originalText] !== undefined;
         const hasCachedTranslation = getFromCache(originalText) !== null;
-        const shouldMark = config.showUntranslatedMarker &&
-                          translatedText === originalText &&
-                          !hasLocalTranslation &&
-                          !hasCachedTranslation &&
-                          !config.enableOnlineTranslation;
+        const shouldMark =
+          translatedText === originalText &&
+          !hasLocalTranslation &&
+          !hasCachedTranslation &&
+          !config.enableOnlineTranslation;
 
         if (shouldMark) {
           addUntranslatedMarker(parentElement, originalText);
@@ -1455,7 +1513,9 @@
         let originalAttr = element.getAttribute(attr);
 
         // 保存原始属性值（总是保存，即使已经保存过）
-        const savedOriginal = element.getAttribute(`${ORIGINAL_TEXT_ATTR}-${attr}`);
+        const savedOriginal = element.getAttribute(
+          `${ORIGINAL_TEXT_ATTR}-${attr}`,
+        );
         if (!savedOriginal) {
           element.setAttribute(`${ORIGINAL_TEXT_ATTR}-${attr}`, originalAttr);
         } else {
@@ -1484,17 +1544,22 @@
         translateElement(child, forceRestore, depth + 1);
       });
     }
+
+    // 只在顶层翻译时隐藏加载界面（depth === 0）
+    if (depth === 0 && !forceRestore) {
+      endTranslationActivity();
+    }
   }
 
   // 重新翻译整个页面
   function retranslatePage() {
     console.log("切换到模式:", config.mode);
-    showLoadingOverlay();
+    startTranslationActivity();
 
     // 使用 setTimeout 让加载遮罩层有时间显示
     setTimeout(() => {
       translateElement(document.body, false);
-      hideLoadingOverlay();
+      endTranslationActivity();
     }, 100);
   }
 
@@ -1549,10 +1614,6 @@
           <div class="menu-toggle-item" data-config="enableOnlineTranslation">
             <span class="toggle-indicator">✓</span>
             <span class="toggle-label">启用在线翻译</span>
-          </div>
-          <div class="menu-toggle-item" data-config="showUntranslatedMarker">
-            <span class="toggle-indicator">✓</span>
-            <span class="toggle-label">显示未翻译标记</span>
           </div>
           <div class="menu-toggle-item" data-config="enableChineseSearch">
             <span class="toggle-indicator">✓</span>
@@ -1938,7 +1999,7 @@
 
     function dragStart(e) {
       if (e.target.classList.contains("menu-close")) return;
-      
+
       initialX = e.clientX - xOffset;
       initialY = e.clientY - yOffset;
       isDragging = true;
@@ -2012,13 +2073,6 @@
         config[configKey] = !config[configKey];
         saveConfig();
         updateToggleItemState(item, config[configKey]);
-
-        // 如果关闭在线翻译，移除所有未翻译标记
-        if (!config.showUntranslatedMarker) {
-          document.querySelectorAll(".untranslated-text").forEach(el => {
-            removeTranslationMarkers(el);
-          });
-        }
       });
     });
 
@@ -2077,7 +2131,7 @@
     const menu = document.getElementById("mapgenie-chinese-menu");
     if (!menu) return;
 
-    menu.querySelectorAll(".menu-toggle-item").forEach(item => {
+    menu.querySelectorAll(".menu-toggle-item").forEach((item) => {
       const configKey = item.getAttribute("data-config");
       updateToggleItemState(item, config[configKey]);
     });
@@ -2105,6 +2159,7 @@
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => {
         isProcessing = true;
+        startTranslationActivity();
 
         mutations.forEach((mutation) => {
           if (mutation.type === "childList") {
@@ -2128,6 +2183,7 @@
         // 使用requestAnimationFrame避免阻塞
         requestAnimationFrame(() => {
           isProcessing = false;
+          endTranslationActivity();
         });
       }, 100);
     });
@@ -2145,11 +2201,13 @@
   function isElementVisible(element) {
     try {
       const style = window.getComputedStyle(element);
-      
+
       // 检查基本 CSS 属性
-      if (style.display === 'none' ||
-          style.visibility === 'hidden' ||
-          style.opacity === '0') {
+      if (
+        style.display === "none" ||
+        style.visibility === "hidden" ||
+        style.opacity === "0"
+      ) {
         return false;
       }
 
@@ -2163,8 +2221,10 @@
       let parent = element.parentElement;
       while (parent && parent !== document.body) {
         const parentStyle = window.getComputedStyle(parent);
-        if (parentStyle.display === 'none' ||
-            parentStyle.visibility === 'hidden') {
+        if (
+          parentStyle.display === "none" ||
+          parentStyle.visibility === "hidden"
+        ) {
           return false;
         }
         parent = parent.parentElement;
@@ -2252,6 +2312,8 @@
     // 每3秒检查一次未翻译的元素
     setInterval(() => {
       try {
+        startTranslationActivity();
+
         // 查找所有文本节点
         const walker = document.createTreeWalker(
           document.body,
@@ -2267,8 +2329,8 @@
                 return NodeFilter.FILTER_REJECT;
               }
               return NodeFilter.FILTER_ACCEPT;
-            }
-          }
+            },
+          },
         );
 
         let translatedCount = 0;
@@ -2288,7 +2350,9 @@
           // 检查是否需要翻译
           if (text && config.mode !== "original") {
             // 检查是否已翻译
-            const originalText = parentElement ? parentElement.getAttribute(ORIGINAL_TEXT_ATTR) : null;
+            const originalText = parentElement
+              ? parentElement.getAttribute(ORIGINAL_TEXT_ATTR)
+              : null;
             if (originalText && text === originalText) {
               // 已标记但未翻译，尝试翻译
               const translatedText = translate(originalText, originalText);
@@ -2298,7 +2362,7 @@
               }
             } else if (!originalText && text.length > 0 && text.length < 100) {
               // 未标记的新元素，尝试翻译（只翻译短文本）
-              
+
               // 只处理英文文本，避免覆盖正确的原始文本
               if (isEnglishText(text)) {
                 const translatedText = translate(text, text);
@@ -2315,8 +2379,11 @@
         if (translatedCount > 0) {
           console.log(`轮询翻译了 ${translatedCount} 个元素`);
         }
+
+        endTranslationActivity();
       } catch (e) {
         console.warn("轮询翻译出错:", e);
+        endTranslationActivity();
       }
     }, 3000);
   }
@@ -2324,58 +2391,76 @@
   // 设置 tooltip 翻译
   function setupTooltipTranslation() {
     // 使用事件委托监听鼠标悬停事件
-    document.addEventListener('mouseover', (e) => {
-      const target = e.target;
+    document.addEventListener(
+      "mouseover",
+      (e) => {
+        const target = e.target;
 
-      // 检查是否有 title 属性
-      if (target.hasAttribute('title')) {
-        const title = target.getAttribute('title');
-        const originalTitle = target.getAttribute(`${ORIGINAL_TEXT_ATTR}-title`);
+        // 检查是否有 title 属性
+        if (target.hasAttribute("title")) {
+          const title = target.getAttribute("title");
+          const originalTitle = target.getAttribute(
+            `${ORIGINAL_TEXT_ATTR}-title`,
+          );
 
-        // 如果没有保存原始值，保存它
-        if (!originalTitle) {
-          target.setAttribute(`${ORIGINAL_TEXT_ATTR}-title`, title);
-        }
+          // 如果没有保存原始值，保存它
+          if (!originalTitle) {
+            target.setAttribute(`${ORIGINAL_TEXT_ATTR}-title`, title);
+          }
 
-        // 翻译 tooltip
-        if (config.mode !== "original" && title) {
-          const translatedTitle = translate(title, originalTitle || title);
-          if (translatedTitle !== title) {
-            target.setAttribute('title', translatedTitle);
+          // 翻译 tooltip
+          if (config.mode !== "original" && title) {
+            startTranslationActivity();
+            const translatedTitle = translate(title, originalTitle || title);
+            if (translatedTitle !== title) {
+              target.setAttribute("title", translatedTitle);
+            }
+            endTranslationActivity();
           }
         }
-      }
 
-      // 检查是否有自定义 tooltip 元素
-      const tooltipElement = document.querySelector('.tooltip, [role="tooltip"], .tippy-box, .popover');
-      if (tooltipElement && tooltipElement.textContent.trim()) {
-        const text = tooltipElement.textContent.trim();
-        const originalText = tooltipElement.getAttribute(ORIGINAL_TEXT_ATTR);
+        // 检查是否有自定义 tooltip 元素
+        const tooltipElement = document.querySelector(
+          '.tooltip, [role="tooltip"], .tippy-box, .popover',
+        );
+        if (tooltipElement && tooltipElement.textContent.trim()) {
+          const text = tooltipElement.textContent.trim();
+          const originalText = tooltipElement.getAttribute(ORIGINAL_TEXT_ATTR);
 
-        if (!originalText) {
-          tooltipElement.setAttribute(ORIGINAL_TEXT_ATTR, text);
-        }
+          if (!originalText) {
+            tooltipElement.setAttribute(ORIGINAL_TEXT_ATTR, text);
+          }
 
-        if (config.mode !== "original" && text && text.length < 100) {
-          const translatedText = translate(text, originalText || text);
-          if (translatedText !== text) {
-            tooltipElement.textContent = translatedText;
+          if (config.mode !== "original" && text && text.length < 100) {
+            startTranslationActivity();
+            const translatedText = translate(text, originalText || text);
+            if (translatedText !== text) {
+              tooltipElement.textContent = translatedText;
+            }
+            endTranslationActivity();
           }
         }
-      }
-    }, true); // 使用捕获阶段，确保在其他事件处理器之前执行
+      },
+      true,
+    ); // 使用捕获阶段，确保在其他事件处理器之前执行
 
     // 监听鼠标离开事件，恢复原始 tooltip
-    document.addEventListener('mouseout', (e) => {
-      const target = e.target;
+    document.addEventListener(
+      "mouseout",
+      (e) => {
+        const target = e.target;
 
-      if (target.hasAttribute(`${ORIGINAL_TEXT_ATTR}-title`)) {
-        const originalTitle = target.getAttribute(`${ORIGINAL_TEXT_ATTR}-title`);
-        if (originalTitle && config.mode !== "original") {
-          target.setAttribute('title', originalTitle);
+        if (target.hasAttribute(`${ORIGINAL_TEXT_ATTR}-title`)) {
+          const originalTitle = target.getAttribute(
+            `${ORIGINAL_TEXT_ATTR}-title`,
+          );
+          if (originalTitle && config.mode !== "original") {
+            target.setAttribute("title", originalTitle);
+          }
         }
-      }
-    }, true);
+      },
+      true,
+    );
   }
 
   // 设置 tooltip Observer
@@ -2387,11 +2472,12 @@
           mutation.addedNodes.forEach((node) => {
             if (node.nodeType === Node.ELEMENT_NODE) {
               // 检查是否是 tooltip 元素
-              if (node.classList.contains('tooltip') ||
-                  node.getAttribute('role') === 'tooltip' ||
-                  node.classList.contains('tippy-box') ||
-                  node.classList.contains('popover')) {
-                
+              if (
+                node.classList.contains("tooltip") ||
+                node.getAttribute("role") === "tooltip" ||
+                node.classList.contains("tippy-box") ||
+                node.classList.contains("popover")
+              ) {
                 // 翻译 tooltip 内容
                 const textNodes = getTextNodes(node);
                 textNodes.forEach((textNode) => {
@@ -2413,11 +2499,12 @@
           if (target.nodeType === Node.TEXT_NODE && target.parentElement) {
             const parent = target.parentElement;
             // 检查是否是 tooltip 元素
-            if (parent.classList.contains('tooltip') ||
-                parent.getAttribute('role') === 'tooltip' ||
-                parent.classList.contains('tippy-box') ||
-                parent.classList.contains('popover')) {
-              
+            if (
+              parent.classList.contains("tooltip") ||
+              parent.getAttribute("role") === "tooltip" ||
+              parent.classList.contains("tippy-box") ||
+              parent.classList.contains("popover")
+            ) {
               const text = target.textContent.trim();
               if (text && config.mode !== "original" && text.length < 100) {
                 const translatedText = translate(text, text);
